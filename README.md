@@ -20,17 +20,6 @@ Currently studying multiple topics like System Design, Full-Stack Web Developmen
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)
 ![Python](https://img.shields.io/badge/Python-4584b6?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)
 
-<!--
-## Projects
-
- ### Project 1
-- Description: An awesome project that does amazing things.
-- Technologies: React, Node.js, MongoDB
-- [Repository](https://github.com/Jahir1515/project1)
-
-### Project 2
-- Description: Another great project with cool features.
-- Technologies: Django, PostgreSQL
-- [Repository](https://github.com/Jahir1515/project2)
-
---!>
+## 🔍 Where to find me
+<a href="https://www.github.com/Jahir1515" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010"/></a> 
+<a href="www.linkedin.com/in/jahircampos" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010"/></a> 
