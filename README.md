@@ -21,6 +21,7 @@ Currently studying multiple topics like Software Architecture and Full Stack Dev
 ![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)
 
 ## 🔍 Where to find me
+<a href="https://www.getonbrd.com/p/jahir-campos" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Getonboard-fd787b?style=for-the-badge&logo=getonboard&logoColor=white&labelColor=101010"/></a>
 <a href="www.linkedin.com/in/jahircampos" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010"/></a>
 <a href="https://www.github.com/Jahir1515" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010"/></a>
 <a href="https://roadmap.sh/u/jahircampos" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Roadmap.SH-181717?style=for-the-badge&logo=roadmap.sh&logoColor=white&labelColor=101010"/></a>
